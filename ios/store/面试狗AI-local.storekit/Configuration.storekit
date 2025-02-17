@@ -1,0 +1,242 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "0E19F734",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "67.5",
+      "familyShareable" : false,
+      "internalID" : "F900F6B3",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay6750",
+      "referenceName" : "面试狗AI6750",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "120",
+      "familyShareable" : false,
+      "internalID" : "F274B38D",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay12000",
+      "referenceName" : "面试狗AI12000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "210",
+      "familyShareable" : false,
+      "internalID" : "455A0082",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay21000",
+      "referenceName" : "面试狗AI21000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "360",
+      "familyShareable" : false,
+      "internalID" : "89BE50EF",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay36000",
+      "referenceName" : "面试狗AI36000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "90",
+      "familyShareable" : false,
+      "internalID" : "2CF3514D",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay9000",
+      "referenceName" : "面试狗AI9000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "180",
+      "familyShareable" : false,
+      "internalID" : "D8F1E6BD",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay18000",
+      "referenceName" : "面试狗AI18000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "375",
+      "familyShareable" : false,
+      "internalID" : "B31CB996",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay37500",
+      "referenceName" : "面试狗AI37500",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "720",
+      "familyShareable" : false,
+      "internalID" : "F9F8B24D",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay72000",
+      "referenceName" : "面试狗AI72000",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "666",
+      "familyShareable" : false,
+      "internalID" : "6807C2FC",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay66600",
+      "referenceName" : "面试狗AI66600",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "999",
+      "familyShareable" : false,
+      "internalID" : "279D90E5",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay99900",
+      "referenceName" : "面试狗AI99900",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1199",
+      "familyShareable" : false,
+      "internalID" : "29712C17",
+      "localizations" : [
+        {
+          "description" : "面试狗AI",
+          "displayName" : "面试狗AI",
+          "locale" : "zh_CN"
+        }
+      ],
+      "productID" : "com.interviewdog.pay119900",
+      "referenceName" : "面试狗AI119900",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

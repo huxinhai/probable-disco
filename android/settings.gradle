@@ -1,0 +1,28 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'interviewDog'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        maven {
+            url 'https://artifact.bytedance.com/repository/Volcengine/'
+        }
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://developer.huawei.com/repo' }  // 华为仓库
+        maven { url 'https://developer.hihonor.com/repo' }  // 荣耀仓库
+        maven {
+            // react-native-background-fetch
+            url("${project(':react-native-background-fetch').projectDir}/libs")
+        }
+        google()
+        mavenCentral()
+
+    }
+
+}

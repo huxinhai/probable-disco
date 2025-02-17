@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">面试狗</string>
+    <string name="record_audio_permission_description">“面试狗”需要录音权限以进行语音识别、录制音频内容，方便您使用语音交流功能。</string>
+</resources>
